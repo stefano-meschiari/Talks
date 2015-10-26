@@ -1,10 +1,4 @@
 # Talks
-An evolving collection of my non-scientific talks. Feel free to reuse to your heart's content.
+My talks are now hosted on SpeakerDeck: https://speakerdeck.com/exostefanom.
 
-## Make your Emacs Sparkle! :heart:
-[Presentation](Make_Your_Emacs_Sparkle.pdf), [supporting material](http://goo.gl/KLFBdm)
-
-## Super-Addictive Games To Get People Hooked on Astronomy: You, Too, Can Make Spiffy Online Web Apps for Outreach and $$$
-[Presentation](meschiari_gsps.pdf), [web-development recomendations](https://github.com/stefano-meschiari/Notes)
-
-
+All my slides are MIT licensed.
